@@ -1,10 +1,10 @@
 {
-    "name": "socialiteproviders/weixin",
+    "name": "orzcc/SocialiteprovidersWeixin",
     "description": "Weixin OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
-        "name": "xyxu",
-        "email": "techxu@gmail.com"
+        "name": "orzcc",
+        "email": "orzcczh@gmail.com"
     }, {
         "name": "xiami",
         "email": "jhdxr@php.net"
